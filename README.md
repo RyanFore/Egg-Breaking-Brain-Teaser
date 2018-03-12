@@ -10,7 +10,7 @@ For example, if your method is to attempt a binary search, the worst case would 
   3) You finally drop the egg from floor 49, and it doesn't break. 
   4) Total number of drops: 50
   
-#The Solution
+# The Solution
 Full calculations for most of the equations referenced below can be found as handwritten, mostly legible notes in the accompanying file named "Proof"
 Drop the first egg at a certain interval, for example every 5th floor, until it breaks. Once it breaks, go down to one floor above the last floor that you safely tested from, and then start testing consecutive floors
 
