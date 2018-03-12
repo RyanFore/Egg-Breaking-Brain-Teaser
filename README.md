@@ -50,5 +50,5 @@ x_3 = the interval for the third egg
 x_(j-1) = the interval for the second to last egg (because the last egg is dropped consecutively
 
 We find that
-x_i = n ^ ((j-i)/j)
+x_i = n ^ (( j-i)/j)
 
