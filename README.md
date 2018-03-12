@@ -1,6 +1,11 @@
 # Egg-Breaking-Brain-Teaser
 
-This program was written to empirically prove the solution of a brain teaser. The original brain teaser goes like this:
+This program was written to empirically test the theoretically calculated solution of a brain teaser. Details of the brain teaser including its solution can be found in the the file named "The Setup"
+
+When the user is asked to input the desired number of eggs and stories to be used in setting up the brain teaser
+The optimal interval choices and the number of drops required in the worst case are then shown, followed by the theoretically obtained optimum interval values
+
+The original brain teaser goes like this:
 
 Imagine a skyscraper 100 stories tall.  You are given two identical eggs that will break when they are dropped from a certain story or any stories above it. You can drop the eggs as many times as you want (until they break), and the eggs are magical, so as long as they don't break, they don't get any weaker from consecutive drops.  What is the best method for dropping the eggs to find the highest story at which they can safely be dropped?  Your method will be judged by the number of required drops in the worst case scenario. Your method is considered invalid if under any circumstances it is incapable of finding the highest safe floor.
 
